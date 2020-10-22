@@ -1,0 +1,22 @@
+{
+  "name": "api-dados",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.5.1",
+    "express": "^4.7.1",
+    "method-override": "^2.1.2",
+    "mongoose": "^5.10.9"
+  },
+  "description": "Hace un tiro de uno o más dados",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaryGiron/api-dados.git"
+  },
+  "author": "Gary Giron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaryGiron/api-dados/issues"
+  },
+  "homepage": "https://github.com/GaryGiron/api-dados#readme"
+}
